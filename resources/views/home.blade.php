@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    ciao
                 </div>
             </div>
         </div>
